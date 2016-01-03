@@ -1,12 +1,11 @@
-Title: My thesis
+Title: Thesis
 Date: 2012-06-25
 Authors: ptanguy
+Category: Research
 slug: thesis
-Summary: My thesis
+Summary: From 2008 to 2012, I worked on my thesis which dealt with power line communication in vehicles. I studied the feasability of high data rates for in-vehicle PLC communications. 
 Status: published
 
-
-## Thesis
 
 ### Topic
 The automotive industry use more and more electronic devices to replace the mechanic systems and to provide security and multimedia services.

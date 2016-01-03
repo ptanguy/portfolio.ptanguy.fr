@@ -33,7 +33,7 @@ ARTICLE_SAVE_AS = "projects/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
 YEAR_ARCHIVE_SAVE_AS = 'projects/{date:%Y}/index.html'
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),)
+#LINKS = (('Pelican', 'http://getpelican.com/'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/phtanguy'),
@@ -43,7 +43,24 @@ SOCIAL = (('Twitter', 'https://twitter.com/phtanguy'),
 DEFAULT_PAGINATION = 10
 
 
-THEME = "simple"
+THEME = "pelican-bootstrap3"
+BOOTSTRAP_THEME = 'united'
+
+#Template settings
+DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = False
+TAG_CLOUD_MAX_ITEMS = 10
+
+#Sidebar options
+DISPLAY_TAGS_ON_SIDEBAR = False
+DISPLAY_CATEGORIES_ON_SIDEBAR = True
+
+#
+BOOTSTRAP_NAVBAR_INVERSE=True
+
+#
+DISPLAY_BREADCRUMBS=True
+DISPLAY_CATEGORY_IN_BREADCRUMBS=True
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
