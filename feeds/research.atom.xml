@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ptanguy's portfolio</title><link href="http://portfolio.ptanguy.fr/" rel="alternate"></link><link href="http://portfolio.ptanguy.fr/feeds/research.atom.xml" rel="self"></link><id>http://portfolio.ptanguy.fr/</id><updated>2012-06-25T00:00:00+02:00</updated><entry><title>Thesis</title><link href="http://portfolio.ptanguy.fr/projects/2012/06/25/thesis/" rel="alternate"></link><updated>2012-06-25T00:00:00+02:00</updated><author><name>ptanguy</name></author><id>tag:portfolio.ptanguy.fr,2012-06-25:projects/2012/06/25/thesis/</id><summary type="html">&lt;h3&gt;Topic&lt;/h3&gt;
+&lt;p&gt;The automotive industry use more and more electronic devices to replace the mechanic systems and to provide security and multimedia services.
+All these electronic devices need to communicate between them.
+That's why, there is a growth of the communication networks in vehicles.
+The automotive communication networks like CAN or FlexRay (10 Mbps) are widely used in vehicles.
+However, it is necessary to reduce the number of wires (e.g. a vehicle can have 3 km of wires for a weight of 50 kg) and to increase the throughput.
+The feasibility of new networks based on power line communication (PLC) and radio frequency (RF) transmissions has been studied.
+This types of techniques do not induce additional wires installation.&lt;/p&gt;
+&lt;h3&gt;Research Interests&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Power Line Communication and wireless communication.&lt;/li&gt;
+&lt;li&gt;Channel measurements and characterization: transfert function and noise analysis.                            &lt;/li&gt;
+&lt;li&gt;Software defined radio: the GNUradio project and the USRP2 card.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Project&lt;/h3&gt;
+&lt;p&gt;The CIFAER research project concerns the definition of an embedded architecture, innovative both in terms of electronic control unit (ECU) and communication interfaces supported (RF &amp;amp; PLC).
+New services for the software layers of the system that supports such an infrastructure are proposed.
+The design of such system is facilited by the addition of new methods incorporating the reconfigurable nature of the proposed architecture.
+The project objectives are part of the topic "Innnovative Architectures and Methodology for the design of on-chip architectures" of the call for projects "Architecture of the future".                         &lt;/p&gt;
+&lt;h3&gt;Scientific dissemination&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Thesis document (French)&lt;/li&gt;
+&lt;li&gt;Thesis presentation (French)&lt;/li&gt;
+&lt;li&gt;Related publications&lt;/li&gt;
+&lt;/ul&gt;</summary></entry></feed>
