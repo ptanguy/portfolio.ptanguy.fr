@@ -30,6 +30,6 @@ The project objectives are part of the topic "Innnovative Architectures and Meth
 
 ### Scientific dissemination
 
-- Thesis document (French)
-- Thesis presentation (French)
-- Related publications
+- Thesis document (French), [pdf](http://pro.ptanguy.fr/files/publications/Memoire_these_pTANGUY_versionFinale.pdf)
+- Thesis presentation (French), [pdf](http://pro.ptanguy.fr/files/presentations/SoutenanceThese_pTanguy_final.pdf)
+- Related publications, [here](http://pro.ptanguy.fr/dissemination/publications.html)
