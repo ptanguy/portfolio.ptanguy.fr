@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ptanguy's portfolio</title><link href="http://portfolio.ptanguy.fr/" rel="alternate"></link><link href="http://portfolio.ptanguy.fr/feeds/webdesign.atom.xml" rel="self"></link><id>http://portfolio.ptanguy.fr/</id><updated>2012-12-01T00:00:00+01:00</updated><entry><title>Breizhzealand</title><link href="http://portfolio.ptanguy.fr/projects/2012/12/01/breizhzealand/" rel="alternate"></link><updated>2012-12-01T00:00:00+01:00</updated><author><name>ptanguy</name></author><id>tag:portfolio.ptanguy.fr,2012-12-01:projects/2012/12/01/breizhzealand/</id><summary type="html">&lt;h3&gt;Project&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Name: www.breizhzealand.fr (no more online)&lt;/li&gt;
+&lt;li&gt;Source Code: &lt;a href="https://github.com/ptanguy/Mysite"&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="Screenshot" src="http://portfolio.ptanguy.fr/images/screenshot-portfolio-Mysite.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;
+&lt;p&gt;My first website with Django.
+My aims was to do a website/blog about a travel in New-Zealand.
+I do not use existing blog engine written with Django in order to learn and for my leisures.
+My work included all the part of the website: webdesign, administration, ...&lt;/p&gt;
+&lt;h3&gt;Tools &amp;amp; Skills&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Framework Django&lt;/li&gt;
+&lt;li&gt;Fabfile&lt;/li&gt;
+&lt;li&gt;HTML5/CSS3&lt;/li&gt;
+&lt;li&gt;Responsive CSS with skeleton&lt;/li&gt;
+&lt;li&gt;Continuous integration&lt;/li&gt;
+&lt;li&gt;PostgreSQL, postGIS&lt;/li&gt;
+&lt;/ul&gt;</summary></entry></feed>
