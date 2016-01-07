@@ -9,6 +9,7 @@ SITEURL = ''
 USE_FOLDER_AS_CATEGORY = False
 
 PATH = 'content'
+STATIC_PATHS = ['files']
 ARTICLE_PATHS = ['projects']
 
 TIMEZONE = 'Europe/Paris'
